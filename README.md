@@ -7,4 +7,4 @@ This project is a secondary development based on Advanced-Shortest-Paths-Algorit
 steps to run Java code
 1. set up a new project
 2. add external library jfreechart
-3. download Java code and add the Java code to the src directory
+3. download Java code and copy the Java code to the src directory
