@@ -3,3 +3,7 @@ This project is a secondary development based on Advanced-Shortest-Paths-Algorit
 (https://github.com/navjindervirdee/Advanced-Shortest-Paths-Algorithms). On top of the original project, I have made the following improvements:
 1. Added functionality to randomly generate sparse and dense graphs of different sizes.
 2. Added performance metrics visualization, including the generation of bar charts and line graphs for data visualization.
+steps to run Java code
+1. set up a new project
+2. add external library jfreechart
+3. download Java code and add the Java code to the src directory
