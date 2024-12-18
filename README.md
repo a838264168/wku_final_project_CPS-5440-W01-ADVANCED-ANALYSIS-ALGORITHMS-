@@ -8,3 +8,4 @@ Steps to run Java code
 1. set up a new java project(recommend Eclipse, only test on Eclipse)
 2. add external library jfreechart
 3. download Java code and copy the Java code to the src directory
+4. run the codes
